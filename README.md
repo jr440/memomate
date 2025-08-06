@@ -1,0 +1,2 @@
+# memomate
+memomate_app
