@@ -1,3 +1,0 @@
-SpeechRecognition
-requests
-PyAudio
