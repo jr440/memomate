@@ -2,5 +2,7 @@ name = "memomate"
 main = "src/index.js"
 compatibility_date = "2024-08-07"
 
-[env.production]
-name = "memomate-prod"
+[[kv_namespaces]]
+binding = "MEMOMATE_KV"
+id = "8f219f53b6604639baacb018b25f3c0d"
+preview_id = "d6d7edbb99ae4fd0a85f76552ec72fe1"
